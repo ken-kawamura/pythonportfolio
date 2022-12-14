@@ -1,0 +1,5 @@
+kaggle/facial-keypoints-detection/training.csv filter=lfs diff=lfs merge=lfs -text
+kaggle/nlp-getting-started/glove.6B.100d.txt[[:space:]]is[[:space:]]331.04[[:space:]]MB filter=lfs diff=lfs merge=lfs -text
+kaggle/nlp-getting-started/glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+soccer/model.pth filter=lfs diff=lfs merge=lfs -text
+kaggle/digit-recognizer/train.csv filter=lfs diff=lfs merge=lfs -text
